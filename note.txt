@@ -1,0 +1,7 @@
+1. indikator prioritas mutu uniit
+2. di story boaard menambahkan grafik per unit per indikator
+3. Mutu PMKP - Warning ketika isian numerator lebih dari denumerator
+
+4. tambah menu di story boaard
+    - Rekap indikator
+    - Indikator per unit
